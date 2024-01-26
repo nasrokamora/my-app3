@@ -4,7 +4,7 @@ import { LiaSearchLocationSolid } from 'react-icons/lia'
 export const FormIconContact = [
     {
         icon: <AiOutlinePhone className=' w-fit text-[#5390ff] ' />,
-        name: "Phone", subtitle: '+213670228131', path: "https://",subname:"Number",
+        name: "Phone", subtitle: '+213670228131', path: "",subname:"Number",
     },
     {
         icon: <MdAlternateEmail className=' w-fit text-yellow-500' />,

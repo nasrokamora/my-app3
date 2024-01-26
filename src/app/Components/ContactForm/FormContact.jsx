@@ -1,7 +1,7 @@
 "use client"
 
-import { useEffect, useReducer, useRef, useState } from "react"
-import { GrSend } from 'react-icons/gr'
+import { useReducer, useState } from "react"
+
 import { TbCubeSend } from 'react-icons/tb'
 
 
@@ -30,7 +30,6 @@ export default function FormContact() {
     const handleSubmit = (e) => {
         
         e.preventDefault()
-        console.log(state)
         const errors = {}
 
         if (!state.name) {
@@ -85,7 +84,7 @@ export default function FormContact() {
     const handleReset = (e) => {
         e.preventDefault()
         dispatch({ type: "reset" })
-        return state
+        
     }
 
 

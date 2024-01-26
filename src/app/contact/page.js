@@ -1,28 +1,28 @@
+
 import FormContact from "@/app/Components/ContactForm/FormContact"
 import { FormIconContact } from "@/app/Components/ContactForm/FormIconContact"
 import Link from "next/link"
 import ToggleButton from "../Components/Toggle/ToggleButton"
-import { AnimateContactForm , AnimateTitleContact } from "../Animations/AnimationContact"
+import { Suspense } from "react"
 
 
-export  const metadata ={
-    title: 'Contact'
+
+export  const metadata = {
+    title: 'Contact me'
 }
-
-
 export default function Contact(){
 
     return(
-        <div className=" h-[100vh]  mt-10     md:p-0 md:m-0 md:mt-4 md:h-auto ">
+        <div className=" h-[100vh]  mt-10  md:p-0 md:m-0 md:mt-4 md:h-auto ">
             <ToggleButton />
-            {/* animation title with framer_Motion  */}
-            <AnimateTitleContact> 
+
+
             <div className="title flex justify-center items-center text-[2.5rem]  md:mt-12">
                 <h1 className=" md:mt-10 border-b border-b-cyan-500 after:border-b md:tracking-[0.3rem]">Get in Touch </h1>
                 </div>
-                </AnimateTitleContact>
+
                 <div className=" grid grid-cols-2 gap-5 grid-flow-row md:flex md:flex-col mt-24 ">
-            <AnimateContactForm>
+
             <div className="form  md:m-4  md:mt-4 ml-4 ">
                 <div className=" mb-3 md:mb-10 flex justify-center items-center text-xl md:mt-3 md:space-x-4  ">
                 <h1 className="border-b border-b-[#8b0000]">Contact Me</h1>
@@ -30,10 +30,13 @@ export default function Contact(){
                 <div className=" bg p-2 rounded-md  backdrop-blur-md bg-white bg-opacity-30
                  border shadow-md  shadow-yellow-500/30 2xl:bg-none 2xl:backdrop-blur-0
                 ">
-                <FormContact />
+                    <Suspense fallback={<div>Loading...</div>}>
+
+                <FormContact />  
+                    </Suspense>
                 </div>
             </div>
-            </AnimateContactForm>
+
             <div className="title_contact   ">
                 <div className="flex justify-center items-center">
                 <h1 className="border-b border-b-[#8b0000]">Contact information</h1>
