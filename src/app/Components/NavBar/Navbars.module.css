@@ -1,0 +1,65 @@
+
+#btn{
+    /* letter-spacing: 1px; */
+    color: rgb(192, 0, 0);
+    padding: 0.3rem ;
+    /* position: relative; */
+    overflow: hidden;
+    font-size: 1rem;
+    transition: 1s;
+    border: none;
+
+    
+
+
+}
+#btn:hover{
+    color: #04beff;
+}
+#menu{
+    animation: bk forwards .40s ease-in-out ;
+
+}
+@keyframes bk {
+    to{
+        /* opacity: 1; */
+        text-shadow: rgb(12, 0, 22) 2px 3px 5px;
+        /* color: whitesmoke; */
+
+    }
+    from{
+        opacity: 0;
+        /* filter: blur(5px); */
+        
+
+
+    }
+    
+}
+
+.linknav:hover{
+    text-shadow: 0px 0px  5px #3a3a3a, 0px 2px 4px  rgb(12, 0, 22);
+    color: #04beff;
+    overflow: hidden;
+    transition: .55s;
+}
+.linklogo{
+position: relative;
+}
+
+.linklogo::after{
+    content: "";
+    position: absolute;
+    width: 0%;
+    height: 4px;
+    background-color: #eab308;
+    left: 50%;
+    bottom: 0px;
+    transition: all 0.55s ease-in-out;
+}
+:hover.linklogo::after{
+    width: 100%;
+    left: 0;
+}
+
+

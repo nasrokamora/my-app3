@@ -1,0 +1,31 @@
+.container{
+    /* border: 1px solid white; */
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+    align-items: center;
+    position: relative;
+
+
+    outline: 1px solid;
+    transition: .55s;
+    outline-color: #1593be
+}
+.container:hover{
+    outline-color:rgb(206, 0, 0);
+}
+.icon{
+    font-size: 18px;
+
+}
+
+
+.switcher{
+    width: 18px;
+    aspect-ratio: 1/1;
+    background-color:#1593be;
+    position: absolute;
+    border-radius: 50px;
+    cursor: pointer;
+}

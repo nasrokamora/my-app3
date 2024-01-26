@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* ::selection{
+  background: #06b6d4;
+  color: white;
+} */
+
+
+body{
+  scroll-behavior: smooth;
+  height: 100dvh;
+  font-size: 1rem;
+  background: #0c0016;
+}
+.light{
+  background: white;
+  color: black;
+
+}
+.dark{
+  background: #0c0016;
+  color: white;
+}
+.theme{
+  transition: .7s;
+
+}

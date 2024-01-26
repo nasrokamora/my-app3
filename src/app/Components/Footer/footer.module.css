@@ -1,0 +1,17 @@
+.title{
+    position: relative;
+    .title::after{
+        position: absolute;
+        content: "";
+        width: 0%;
+        height: 4px;
+        left: 50%;
+        bottom: 0;
+        background-color: #8b0000;
+        transition: all 0.55s ease-in-out;
+    }
+    :hover.title::after{
+        width: 100%;
+        left: 0;
+    }
+}
