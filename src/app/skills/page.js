@@ -1,13 +1,22 @@
 
-
 import { cardData } from "../Components/SkillsData/CardData";
 import { SkillDataAnim } from "../Components/SkillsData/SkillsData";
+import dynamic from "next/dynamic";
+
 import ToggleButton from "../Components/Toggle/ToggleButton";
+
+
+
+
+
+
 
 export const metadata = {
     title: 'Skills and Technique',
 }
 
+
+const AnimationImageSkill = dynamic(()=>import('@/app/Components/SkillsData/AnimationImageSkill'))
 export default  function Skills() {
    
 
