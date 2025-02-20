@@ -10,6 +10,7 @@ export default function Home() {
 
   return (
     <main className=" h-[100vh] md:h-full  lg:mt-[10rem] xl:mt-[7rem] 2xl:mt-[10rem] lg:text-[1.2rem] 2xl:text-[1.4rem]">
+      
       <div className=' flex justify-around mt-12 md:mt-6 md:flex md:justify-center md:flex-col md:items-center   '>
         <Image className='xl:w-[530px] xl:h-[400px]  2xl:w-[530px] 2xl:h-[450px] md:w-[350px] lg:w-[450px] lg:h-[400px] '
           src={develop} alt='image'
