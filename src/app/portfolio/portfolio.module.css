@@ -1,26 +1,4 @@
-.cards{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 1rem;
 
-
-
-}
-.post{
-    flex-grow: 1;
-    height: 300px;
-    transition: all .55s ;
-}
-.imagesCont{
-    height: 200px;
-    position: relative;
-
-}
-.images{
-    object-fit:cover;
-    border-radius: 12px;   
-}
 
 .loader {
     width: 48px;

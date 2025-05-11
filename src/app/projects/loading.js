@@ -1,4 +1,4 @@
-import style from './portfolio.module.css'
+import style from '../portfolio/portfolio.module.css'
 
 
 export default function Loading(){

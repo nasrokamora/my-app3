@@ -1,1 +1,9 @@
+/* about.module.css */
 
+.gradientText {
+    /* font-size: 2rem; */
+    font-weight: bold;
+    color: #000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    @apply border-b bg-transparent bg-clip-text text-transparent bg-gradient-to-tr from-[#5b38f8] to-[#00fff2] text-center text-[2.5rem] md:text-[3rem] lg:text-[3rem] xl:text-[4rem] 2xl:text-[5rem];
+}

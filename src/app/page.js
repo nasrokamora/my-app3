@@ -3,19 +3,20 @@ import Link from 'next/link'
 import develop from "../public/image/developer.png"
 import { listIcon } from '@/app/Elements/SocialIcon'
 import TextAnimation from '@/app/Elements/TextAnimation'
+import Testimonials from './Components/Testimonials/Testimonials'
 
 
 
 export default function Home() {
 
   return (
-    <main className=" h-[100vh] md:h-full  lg:mt-[10rem] xl:mt-[7rem] 2xl:mt-[10rem] lg:text-[1.2rem] 2xl:text-[1.4rem]">
-      
+    <main className=" h-auto md:h-full  lg:mt-[10rem] xl:mt-[7rem] 2xl:mt-[10rem] lg:text-[1.2rem] 2xl:text-[1.4rem]">
       <div className=' flex justify-around mt-12 md:mt-6 md:flex md:justify-center md:flex-col md:items-center   '>
         <Image className='xl:w-[530px] xl:h-[400px]  2xl:w-[530px] 2xl:h-[450px] md:w-[350px] lg:w-[450px] lg:h-[400px] '
           src={develop} alt='image'
           width={350} height="auto" draggable={false}
-          priority={true} />
+          placeholder='blur'
+        />
 
         <div className='card-left w-auto flex flex-col 
          md:w-auto  lg:w-auto md:items-center  justify-center 
@@ -25,7 +26,7 @@ export default function Home() {
             Hello  !
           </h1>
 
-          <h2 className=' text-[1.6rem] lg:text-[2rem] md:text-[1.5rem] w-fit xl:text-[2.5rem] 2xl:text-[2.5rem]'> I'am <b></b>
+          <h2 className=' text-[1.6rem] lg:text-[2rem] md:text-[1.5rem] w-fit xl:text-[2.5rem] 2xl:text-[2.5rem]'> I'm <b></b>
             <span className="text-yellow-600 w-fit">Nasreddine_</span><b></b><span className='text-cyan-700'>@ab</span>
           </h2>
           <div className='text-[2rem] md:text-[8vw] w-fit xl:text-[2.3rem] 2xl:text-[4vw]'>
@@ -66,7 +67,7 @@ export default function Home() {
           </div>
         </div>
       </div>
-
+      <Testimonials />
     </main>
 
 
