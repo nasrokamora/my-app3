@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nest Js** 
 
-- 👨‍💻 All of my projects are available at [https://nasreddine-abdellouche.vercel.app/](https://nasreddine-abdellouche.vercel.app/) 
+- 👨‍💻 All of my projects are available at [https://nasreddine-abdellouche.sevalla.app/](https://nasreddine-abdellouche.sevalla.app/) 
 
 - 💬 Ask me about **Next.Js, React & more...** 
 
