@@ -11,6 +11,13 @@ import ShadcnSVG from "../../../public/IconSVG/shadcn-ui-seeklogo.svg"
 import RedisSVG from '../../../public/IconSVG/redis-logo-svgrepo-com.svg'
 import UpstashSVG from '../../../public/IconSVG//upstash-seeklogo.svg'
 import TailwindSVG from '../../../public/IconSVG/tailwindcss-icon-svgrepo-com.svg'
+import typescriptIcon from '../../../public/IconSVG/typescript-official-svgrepo-com.svg'
+import postgressql from '../../../public/IconSVG//postgresql-logo-svgrepo-com.svg'
+import prismaIcon from '../../../public/IconSVG/light-prisma-svgrepo-com.svg'
+import jwtwebIcon from '../../../public/IconSVG/jsonwebtokens-svgrepo-com.svg'
+import graphqlIcon from '../../../public/IconSVG/graphql-svgrepo-com.svg'
+import aiIcon from '../../../public/IconSVG/ai-svgrepo-com.svg'
+
 
 
 export const IconSVG = [
@@ -69,47 +76,75 @@ export const IconSVG = [
         icon: NestJs,
         title: "Nest.js"
     },
+    {
+        id: 12,
+        icon: postgressql,
+        title: "PostgreSQL"
+    },
+    {
+        id: 13,
+        icon: prismaIcon,
+        title: "Prisma"
+    },
+    {
+        id: 14,
+        icon: typescriptIcon,
+        title: "Typescript"
+    },
+    {
+        id: 15,
+        icon: jwtwebIcon,
+        title: "JWT"
+    },
+    {
+        id: 16,
+        icon: graphqlIcon,
+        title: "Graphql"
+    },
+    {
+        id: 17,
+        icon: aiIcon,
+        title: "AI"
+    }
 ]
 
-const seceltedIdsIcons = [1,2, 6, 7, 8]
-const selectedIdIconsProjects =[1, 2, 4, 6, 7, 8, 11 ]
- 
+const seceltedIdsIcons = [1, 2, 6, 7, 8]
+const selectedIconCarHub = [11, 12, 13, 14, 15, 16, 17, 9, 1, 2, 8]
+const selectedIconMagixMovies = [1, 2,,3,4,5, 6, 7, 8, 9, 10]
+
 
 export default function MagixMoviesIcon() {
     return (
         <div className=" flex justify-center items-center gap-4 mt-2 mb-2 flex-wrap ">
-            {IconSVG.slice(0,-1).map((icon) => (
+            {IconSVG.filter((icon) => selectedIconMagixMovies.includes(icon.id)).map((icon) => (
                 <div key={icon.id}>
-                    <Image    
+                    <Image
                         src={icon.icon}
                         alt={icon.title}
                         width={34}
                         height={"auto"}
                         title={icon.title}
-                        
+
                     />
                 </div>
-
-
-
             ))}
         </div>
     )
 }
 
 
-export function PortfolioIcon(){
-    return(
+export function PortfolioIcon() {
+    return (
         <div className='flex justify-center items-center gap-4 mt-2 mb-2 flex-wrap'>
             {IconSVG.filter((icon) => seceltedIdsIcons.includes(icon.id)).map((icon) => (
                 <div key={icon.id}>
-                    <Image    
+                    <Image
                         src={icon.icon}
                         alt={icon.title}
                         width={34}
                         height={34}
                         title={icon.title}
-                        
+
                     />
                 </div>
             ))}
@@ -117,9 +152,21 @@ export function PortfolioIcon(){
     )
 }
 
-export function IconProjects(){
-    return(
-        <div>
+export function CarsHubIcon() {
+    return (
+        <div className='flex justify-center items-center gap-4 mt-2 mb-2 flex-wrap'>
+            {IconSVG.filter((icon) => selectedIconCarHub.includes(icon.id)).map((icon) => (
+                <div key={icon.id}>
+                    <Image
+                        src={icon.icon}
+                        alt={icon.title}
+                        width={34}
+                        height={34}
+                        title={icon.title}
+                    />
+                </div>
+            ))}
+
 
         </div>
     )

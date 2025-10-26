@@ -1,8 +1,18 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ["magix-movies.vercel.app"],
-        
+        remotePatterns: [
+            {
+                protocol: 'https',
+                hostname: 'magix-movies.vercel.app',
+                port: '',
+                pathname: '/**',
+            },
+            // https:
+            // "magix-movies.vercel.app",
+            // "img.shields.io",
+        ],
+
     }
 }
 
