@@ -30,12 +30,6 @@ Currently, I'm working on a **CarHub & Vehicle Marketplace** built with **NestJS
   <img src="https://img.shields.io/badge/Magic_UI-5A67D8?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🛠️ Tools & Technologies
-- **Docker**, **Redis**, **Upstash**, **Cloudinary**
-- **JWT Authentication**, **Zod Validation**
-- **Framer Motion**, **Vercel**
-- **REST APIs** & (soon) **GraphQL APIs**
-
 ---
 
 ## 💼 Featured Projects
