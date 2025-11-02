@@ -12,11 +12,23 @@ Currently, I'm working on a **CarHub & Vehicle Marketplace** built with **NestJS
 ## 🚀 Tech Stack
 
 ### 🧠 Languages & Frameworks
-- **TypeScript** | **JavaScript (ES6+)**
-- **Next.js**, **React.js**, **NestJS**
-- **Node.js**, **Express.js**
-- **PostgreSQL**, **Prisma ORM**
-- **Tailwind CSS**, **Shadcn UI**, **Magic UI**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nestjs,nodejs,express,postgresql,prisma,tailwind,html,css" />
+</p>
+
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,redis,cloudinary,vercel,git,github,vscode,postman" />
+</p>
+
+### 🔐 Others
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-FF4154?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magic_UI-5A67D8?style=for-the-badge&logoColor=white" />
+</p>
 
 ### 🛠️ Tools & Technologies
 - **Docker**, **Redis**, **Upstash**, **Cloudinary**
