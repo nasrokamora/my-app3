@@ -1,26 +1,13 @@
 # 👨‍💻 Nasreddine Abdellouche – Full Stack Developer  
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer GIF">
-      </td>
-      <td width="50%" valign="top">
-        <h3>Hi there! 👋</h3>
-        <p align="left">
-          I'm <b>Nasreddine Abdellouche</b>, a passionate <b>Full Stack Web Developer</b> focused on building 
-          <b>scalable</b>, <b>high-performance</b>, and <b>modern web applications</b>.<br><br>
-          I aim to craft clean architecture, elegant UI/UX, and maintainable code — blending creativity with technical precision.
-        </p>
-        <p align="left">
-          Currently, I'm developing a <b>Car & Vehicle Marketplace</b> using <b>NestJS</b>, <b>Next.js</b>, and <b>PostgreSQL</b>, 
-          while exploring <b>GraphQL</b> and <b>AI integration with TensorFlow</b> to bring intelligent features into my future projects.
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+Hi there! 👋  
+I'm **Nasreddine Abdellouche**, a passionate **Full Stack Web Developer** focused on building **scalable**, **high-performance**, and **modern web applications**.  
+I aim to craft clean architecture, elegant UI/UX, and maintainable code — blending creativity with technical precision.
+
+Currently, I'm developing a **Car & Vehicle Marketplace** using **NestJS**, **Next.js**, and **PostgreSQL**,  
+while exploring **GraphQL** and **AI integration with TensorFlow** to bring intelligent features into my future projects.  
 
 ---
 
