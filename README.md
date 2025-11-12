@@ -1,4 +1,4 @@
-# 👨‍💻 Nasreddine Abdellouche – Full Stack Developer  
+#  Nasreddine Abdellouche – Full Stack Developer  
 
 ![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
