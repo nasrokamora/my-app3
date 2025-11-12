@@ -1,11 +1,26 @@
-#  Nasreddine Abdellouche – Full Stack Developer  
+# 👨‍💻 Nasreddine Abdellouche – Full Stack Developer  
 
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-Hi there! 👋  
-I'm **Nasreddine Abdellouche**, a passionate **Full Stack Web Developer** who loves building scalable, high-performance web applications with a focus on clean architecture and great user experiences.  
-
-Currently, I'm working on a **CarHub & Vehicle Marketplace** built with **NestJS**, **Next.js**, and **PostgreSQL**, while also learning **GraphQL** and **AI integration using TensorFlow** to enhance future projects.  
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer GIF">
+      </td>
+      <td width="50%" valign="top">
+        <h3>Hi there! 👋</h3>
+        <p align="left">
+          I'm <b>Nasreddine Abdellouche</b>, a passionate <b>Full Stack Web Developer</b> focused on building 
+          <b>scalable</b>, <b>high-performance</b>, and <b>modern web applications</b>.<br><br>
+          I aim to craft clean architecture, elegant UI/UX, and maintainable code — blending creativity with technical precision.
+        </p>
+        <p align="left">
+          Currently, I'm developing a <b>Car & Vehicle Marketplace</b> using <b>NestJS</b>, <b>Next.js</b>, and <b>PostgreSQL</b>, 
+          while exploring <b>GraphQL</b> and <b>AI integration with TensorFlow</b> to bring intelligent features into my future projects.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -34,16 +49,16 @@ Currently, I'm working on a **CarHub & Vehicle Marketplace** built with **NestJS
 
 ## 💼 Featured Projects
 
-### 🎬 [Movies & TV Shows Website](https://magix-movies.vercel.app)
-A modern platform for exploring and streaming movies and TV shows, powered by **Next.js**, **TMDB API**, and **Upstash Redis** for caching.  
+### 🎬 [Movies & TV Shows Platform](https://magix-movies.vercel.app)
+A modern platform for exploring and streaming movies and TV shows — built with **Next.js**, **TMDB API**, and **Upstash Redis** for caching.  
 
-> ⚠️ *Note: The live demo is temporarily suspended due to Vercel Edge Function limits.*  
-> *The project will soon be redeployed on a scalable platform.*
+> ⚠️ *Note:* The live demo is temporarily suspended due to Vercel Edge Function limits.  
+> The project will be redeployed soon on a scalable platform.
 
 **Key Features:**
-- Movie & TV data from TMDB API  
-- Authentication via KindeAuth  
-- Smooth animations (Framer Motion)  
+- Dynamic data from TMDB API  
+- Secure authentication via KindeAuth  
+- Smooth animations with Framer Motion  
 - Optimized performance with SSR, ISR, and SSG  
 
 🔗 [View Source Code](https://github.com/nasrokamora/app6)
@@ -51,36 +66,66 @@ A modern platform for exploring and streaming movies and TV shows, powered by **
 ---
 
 ### 🚗 [Cars & Vehicles Marketplace] *(Work in Progress)*
-A full-stack application to buy and sell vehicles, featuring secure authentication, image uploads, and real-time updates.  
+A full-stack application for buying and selling vehicles — featuring secure authentication, image uploads, and real-time updates.  
 
-**Built with:**  
-NestJS, Prisma, PostgreSQL, Cloudinary, Next.js (Frontend in progress)
+**Tech Stack:**  
+NestJS • Prisma • PostgreSQL • Cloudinary • Next.js (Frontend in progress)
 
 ---
 
-## 💡 What I’m Learning
-- 🧩 **NestJS (Deep Dive)** – mastering backend structure, dependency injection, and modular architecture  
-- 🧠 **GraphQL** – to enhance data querying efficiency  
-- 🤖 **AI (TensorFlow)** – exploring ML models for recommendation systems  
-- 🕵️ **Cybersecurity Basics** – improving web app protection and secure API design  
+## 💡 Currently Learning
+- 🧩 **Advanced NestJS** — deep dive into modular design and backend scalability  
+- 🧠 **GraphQL** — efficient data querying and flexible API design  
+- 🤖 **TensorFlow AI** — implementing ML models for smart recommendations  
+- 🕵️ **Cybersecurity** — securing APIs and authentication systems  
 
 ---
 
 ## 🧰 Development Philosophy
 > “Code should be elegant, performant, and maintainable.”  
 
-I value **clean architecture**, **reusability**, and **developer experience**.  
-Each project I build is designed to scale while maintaining clarity and performance.
+I believe in **clarity**, **scalability**, and **developer experience** — writing code that not only works, but ages well.
 
 ---
 
 ## 📫 Contact Me
 
-- **Portfolio:** [nasreddine-abdellouche.vercel.app](https://nasreddine-abdellouche.vercel.app)  
-- **GitHub:** [nasrokamora](https://github.com/nasrokamora)  
-- **LinkedIn:** [Nasreddine AB](https://www.linkedin.com/in/nasdev)  
-- **Email:** nasreddine-ab@outlook.com | nas_dev@outlook.com | nanim2@outlook.fr  
+- 🌐 **Portfolio:** [nasreddine-abdellouche.vercel.app](https://nasreddine-abdellouche.vercel.app)  
+- 🐙 **GitHub:** [nasrokamora](https://github.com/nasrokamora)  
+- 💼 **LinkedIn:** [Nasreddine AB](https://www.linkedin.com/in/nasdev)  
+- 📧 **Email:** nasreddine-ab@outlook.com | nas_dev@outlook.com | nanim2@outlook.fr  
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories — it really motivates me!*
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrokamora&layout=compact&theme=radical&langs_count=10" 
+    alt="Top Languages" 
+    height="180" 
+  />
+</p>
+
+---
+
+## 💫 Personal Quote
+
+<p align="center">
+  <em>
+    "From Algeria 🇩🇿 — I believe programming is not just about writing code,  
+    but about creating art, solving problems, and inspiring change."
+  </em>
+</p>
+
+<p align="center" dir="rtl" style="font-family:'Cairo', sans-serif;">
+  <em>
+    من الجزائر 🇩🇿 — أؤمن أن البرمجة ليست مجرد كود، بل فن وإبداع،  
+    وسيلة للتغيير وصناعة المستقبل.
+  </em>
+</p>
+
+---
+
+
+⭐ *If you enjoy my work, consider giving a star to my repositories — it really keeps me motivated!* 🚀
