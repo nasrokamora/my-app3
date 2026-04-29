@@ -1,22 +1,118 @@
+# 👨‍💻 Nasreddine Abdellouche – Full Stack Developer  
 
-<h1 align="center">Hi 👋, I'm Nasreddine AB</h1>
-<h3 align="center">I'm Nasreddine AB from Algeria, a Front-end Developer and Full-stack Developer, specialized in building web applications using technologies like Next.js and React.js for the front-end, and Node.js and Express.js for the back-end. I work to provide innovative and outstanding user experiences by designing and developing attractive and seamless user interfaces, in addition to paying attention to the finer details and applying best practices in my work. You can find me here to help you achieve your technical ideas and aspirations!</h3>
-<img align="right" alt="Coding" src="https://th.bing.com/th/id/R.e426702edf874b181aced1e2fa5c6cde?rik=4VIhALqwWdXJLw&pid=ImgRaw&r=0&PC=EMMX01" width="400"> 
+![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-- 🌱 I’m currently learning **Nest Js** 
+Hi there! 👋  
+I'm **Nasreddine Abdellouche**, a passionate **Full Stack Web Developer** focused on building **scalable**, **high-performance**, and **modern web applications**.  
+I aim to craft clean architecture, elegant UI/UX, and maintainable code — blending creativity with technical precision.
 
-- 👨‍💻 All of my projects are available at [https://nasreddine-abdellouche.sevalla.app/](https://nasreddine-abdellouche.sevalla.app/) 
+Currently, I'm developing a **Car & Vehicle Marketplace** using **NestJS**, **Next.js**, and **PostgreSQL**,  
+while exploring **GraphQL** and **AI integration with TensorFlow** to bring intelligent features into my future projects.  
 
-- 💬 Ask me about **Next.Js, React & more...** 
+---
 
-- 📫 How to reach me **Nas_Dev@outlook.com, nanim2@outlook.fr, nas.dev3@gmail.com** 
+## 🚀 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
+### 🧠 Languages & Frameworks
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nasdev" height="30" width="40" /></a>
-</p> 
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nestjs,nodejs,express,postgresql,prisma,tailwind,html,css" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> 
+### 🛠️ Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,redis,cloudinary,vercel,git,github,vscode,postman" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nasrokamora&show_icons=true&locale=en&layout=compact" alt="nasrokamora" /></p>
+### 🔐 Others
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-FF4154?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Magic_UI-5A67D8?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 🎬 [Movies & TV Shows Platform](https://magix-movies.vercel.app)
+A modern platform for exploring and streaming movies and TV shows — built with **Next.js**, **TMDB API**, and **Upstash Redis** for caching.  
+
+> ⚠️ *Note:* The live demo is temporarily suspended due to Vercel Edge Function limits.  
+> The project will be redeployed soon on a scalable platform.
+
+**Key Features:**
+- Dynamic data from TMDB API  
+- Secure authentication via KindeAuth  
+- Smooth animations with Framer Motion  
+- Optimized performance with SSR, ISR, and SSG  
+
+🔗 [View Source Code](https://github.com/nasrokamora/app6)
+
+---
+
+### 🚗 [Cars & Vehicles Marketplace] *(Work in Progress)*
+A full-stack application for buying and selling vehicles — featuring secure authentication, image uploads, and real-time updates.  
+
+**Tech Stack:**  
+NestJS • Prisma • PostgreSQL • Cloudinary • Next.js (Frontend in progress)
+
+---
+
+## 💡 Currently Learning
+- 🧩 **Advanced NestJS** — deep dive into modular design and backend scalability  
+- 🧠 **GraphQL** — efficient data querying and flexible API design  
+- 🤖 **TensorFlow AI** — implementing ML models for smart recommendations  
+- 🕵️ **Cybersecurity** — securing APIs and authentication systems  
+
+---
+
+## 🧰 Development Philosophy
+> “Code should be elegant, performant, and maintainable.”  
+
+I believe in **clarity**, **scalability**, and **developer experience** — writing code that not only works, but ages well.
+
+---
+
+## 📫 Contact Me
+
+- 🌐 **Portfolio:** [nasreddine-abdellouche.vercel.app](https://nasreddine-abdellouche.vercel.app)  
+- 🐙 **GitHub:** [nasrokamora](https://github.com/nasrokamora)  
+- 💼 **LinkedIn:** [Nasreddine AB](https://www.linkedin.com/in/nasdev)  
+- 📧 **Email:** nasreddine-ab@outlook.com | nas_dev@outlook.com | nanim2@outlook.fr  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasrokamora&layout=compact&theme=radical&langs_count=10" 
+    alt="Top Languages" 
+    height="180" 
+  />
+</p>
+
+---
+
+## 💫 Personal Quote
+
+<p align="center">
+  <em>
+    "From Algeria 🇩🇿 — I believe programming is not just about writing code,  
+    but about creating art, solving problems, and inspiring change."
+  </em>
+</p>
+
+<p align="center" dir="rtl" style="font-family:'Cairo', sans-serif;">
+  <em>
+    من الجزائر 🇩🇿 — أؤمن أن البرمجة ليست مجرد كود، بل فن وإبداع،  
+    وسيلة للتغيير وصناعة المستقبل.
+  </em>
+</p>
+
+---
+
+
+⭐ *If you enjoy my work, consider giving a star to my repositories — it really keeps me motivated!* 🚀
