@@ -3,7 +3,7 @@ import styles from './footer.module.css'
 import { FaRegCopyright } from 'react-icons/fa'
 import Link from 'next/link'
 import Image from 'next/image'
-import nasdev from '../../../public/image/nas_dev.png'
+import nasdev from '../../../public/icon/apple-touch-icon-ns.png'
 import { SiLinktree } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
